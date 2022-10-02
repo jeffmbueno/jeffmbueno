@@ -1,5 +1,6 @@
-# feel the void
-- 👋 Hi, I’m @jeffmbueno, the backup account of @voidshin!
+<h2 align="left">
+  👤 Hi, i'm a backup accout of <strong><a href="https://github.com/voidshin" alt="main profile">@voidshin</a></strong>
+</p>
 
 <!---
 jeffmbueno/jeffmbueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
